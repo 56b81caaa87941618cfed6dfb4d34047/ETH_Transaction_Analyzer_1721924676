@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Submit' button to be positioned within the app?\", \"option1\": \"At the bottom of the form\", \"option2\": \"Fixed at the bottom of the screen, visible while scrolling\"}, {\"question 2\": \"Do you want any specific action or feedback mechanism to be triggered upon clicking the 'Submit' button?\", \"option1\": \"Display a success message\", \"option2\": \"Redirect to another page\"}], \"input_token_count\": 260, \"output_token_count\": 105, \"time_taken\": \"0:00:04.566280\"}",
+        "message_id": "guest25072024162458",
+        "timestamp": "25072024162504",
+        "component_file_name": "simple_header_component_1721924679",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "On it! Adding a Submit button to the project.",
         "message_id": "guest25072024162458",
